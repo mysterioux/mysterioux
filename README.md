@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my certifications training (aws, azure, gcp)
 - 🌱 I’m currently learning cloud & Devops 
 - 👯 I’m looking to collaborate on fintech products
 - 🤔 I’m looking for help with funding & community sponsorship
