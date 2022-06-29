@@ -1,7 +1,5 @@
-<h1> Hello fellow citizens of the world <img src="contain/Hi.gif" width="20px"></h1>
-<br /> 
+<h1> Hello fellow citizens of the world <img src="contain/Hi.gif" width="10px"></h1>
 <h2> 💁🏻‍♂️👇 Welcome to my profile page👇</h2>
-<br/>
 <img src="contain/echris.gif"></h2>
 <br/>
 
