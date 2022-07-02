@@ -16,9 +16,6 @@
   * freeCodeCamp Liberia<br />
   to mention a few
 
-
-Yep! I also got a site, worrking on a new version to be launched soon. [Personal Site](https://ccemenike.me).
-
 # TECH STACK
   ###  Languages (I have been excelling in)
   
