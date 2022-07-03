@@ -50,12 +50,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysterioux&color=blueviolet" alt="mysterioux" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mysterioux&show_icons=true&theme=monokai&count_private=true" align="right"/> <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysterioux&theme=merko&layout=compact&hide_langs_below=1" /></p>
 <br>
-#### Top Repositories
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
