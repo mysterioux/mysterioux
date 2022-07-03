@@ -1,6 +1,6 @@
-<h1> Hello fellow citizens of the world <img src="contain/Hi.gif" width="10px"></h1>
+<h1> Hello fellow citizens of the world</h1>
 <h2> 💁🏻‍♂️👇 Welcome to my profile page👇</h2>
-<img src="contain/echris.gif"></h2>
+<img src="contain/echris.jpg"></h2>
 <br/>
 
 - I switched focus from Product Management to DevOps Engineering full time. I would really love to grow and help others interested in become a Cloud Architect or DevOps Engineer especially in Africa. Building communities that thrive and increase open-source collaborations and creating technology to elevate people
@@ -51,3 +51,13 @@ Yep! I also got a site, worrking on a new version to be launched soon. [Personal
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysterioux&color=blueviolet" alt="mysterioux" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mysterioux&show_icons=true&theme=monokai&count_private=true" align="right"/> <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysterioux&theme=merko&layout=compact&hide_langs_below=1" /></p>
+<br>
+#### Top Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
