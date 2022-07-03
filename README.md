@@ -3,9 +3,9 @@
 <img src="contain/echris.jpg"></h2>
 <br/>
 
-- I switched focus from Product Management to DevOps Engineering full time. I would really love to grow and help others interested in become a Cloud Architect or DevOps Engineer especially in Africa. Building communities that thrive and increase open-source collaborations and creating technology to elevate people
+- I switched focus from Product Management to Cloud/DevOps Engineering full time. I would really love to grow and help others interested in becoming a Cloud Architect or DevOps Engineer especially in Africa (Liberia/Nigeria). Building communities that thrive and increase open-source collaborations and creating technology to elevate people
 - I'm a business-oriented technologist with few years of experience helping startup to dive into technology
-- Working to build experience in VMs, Containers, Kubernetes, Security & Structured Pipelines
+- Working to build experience in CI/CD pipelines, Containers, Kubernetes, DevOps and Security.
 - My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
 - I hope to take up challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 - I love community development as I am a pioneer in many of the communities in Libeira including:
@@ -13,11 +13,9 @@
   * [WordPress Monrovia](https://www.meetup.com/monrovia-wordpress-meetup/)
   * Python Liberia
   * [DevCom Liberia
+  * Cloud & DevOps Liberia (Working on this)
   * freeCodeCamp Liberia<br />
   to mention a few
-
-
-Yep! I also got a site, worrking on a new version to be launched soon. [Personal Site](https://ccemenike.me).
 
 # TECH STACK
   ###  Languages (I have been excelling in)
