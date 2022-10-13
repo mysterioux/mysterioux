@@ -28,12 +28,12 @@
 <br/>
 
 ### Working Certifications
-      • MS AZ-900 (Azure Fundamental)
+      • MS AZ-900 (Azure Fundamental) - **DONE**
       • MS DP-900 (Data Fundamental)
       • MS AI-900 (AI Fundamental)
       • MS SC-900 (Security Fundamental)
       • MS AZ-104 (Azure Admin Associate)
-      • AWS Cloud Practitioner
+      • AWS Cloud Practitioner - **DONE**
       • AWS Certified Solution Architect - Associate
       
 
