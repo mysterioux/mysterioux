@@ -9,10 +9,11 @@
 - My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
 - I hope to take up challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 - I love community development as I am a pioneer in many of the communities in Libeira including:
+  * [AWS Liberia](https://www.meetup.com/aws-liberia)
   * [GDG Monrovia](https://gdg.community.dev/gdg-monrovia)
   * [WordPress Monrovia](https://www.meetup.com/monrovia-wordpress-meetup/)
   * Python Liberia
-  * [DevCom Liberia
+  * [DevCom Liberia](https://www.meetup.com/devcom-liberia)
   * Cloud & DevOps Liberia (Working on this)
   * freeCodeCamp Liberia<br />
   to mention a few
