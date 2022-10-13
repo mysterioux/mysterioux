@@ -23,7 +23,6 @@
       🐍 Python
       🤖 Bash
       🦾 Power Shell (Beginner)
-      📦 Javascript (Beginner)
       
 <br/>
 
