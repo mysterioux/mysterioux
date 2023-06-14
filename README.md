@@ -42,7 +42,7 @@
 
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](hello@ccemenike.me)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ on any social channel
 
 ####
 
