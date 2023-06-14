@@ -1,6 +1,6 @@
 <h1> Hello fellow citizens of the world</h1>
 <h2> 💁🏻‍♂️👇 Welcome to my profile page👇</h2>
-<img src="contain/echris.jpg"></h2>
+<!-- <img src="contain/echris.jpg"></h2> -->
 <br/>
 
 - I am a Multi-disciplinary geek in the Product Management, Cybersecurity and Cloud Space. I am obessed about Fintech and now adding Cloud. I am currently pursuing a career in Cybersecurity with interest in Cloud Security Architect. I am builidng communities to help others grow their career. 
