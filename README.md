@@ -12,7 +12,7 @@
   * [GDG Monrovia](https://gdg.community.dev/gdg-monrovia)
   * [WordPress Monrovia](https://www.meetup.com/monrovia-wordpress-meetup/)
   * Python Liberia
-  * [DevCom Liberia](https://www.meetup.com/devcom-liberia)
+  * [DevCom Liberia](https://t.me/devcom-liberia)
   * Cloud & DevOps Liberia (Working on this)
   * freeCodeCamp Liberia<br />
   to mention a few
