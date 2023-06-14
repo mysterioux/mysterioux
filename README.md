@@ -3,9 +3,8 @@
 <img src="contain/echris.jpg"></h2>
 <br/>
 
-- I switched focus from Product Management to Cloud/DevOps Engineering full time. I would really love to grow and help others interested in becoming a Cloud Architect or DevOps Engineer especially in Africa (Liberia/Nigeria). Building communities that thrive and increase open-source collaborations and creating technology to elevate people
+- I am a Multi-disciplinary geek in the Product Management, Cybersecurity and Cloud Space. I am obessed about Fintech and now adding Cloud. I am currently pursuing a career in Cybersecurity with interest in Cloud Security Architect. I am builidng communities to help others grow their career. 
 - I'm a business-oriented technologist with few years of experience helping startup to dive into technology
-- Working to build experience in CI/CD pipelines, Containers, Kubernetes, DevOps and Security.
 - My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
 - I hope to take up challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 - I love community development as I am a pioneer in many of the communities in Libeira including:
@@ -28,13 +27,15 @@
 <br/>
 
 ### Working Certifications
-      • MS AZ-900 (Azure Fundamental) - **DONE**
-      • MS DP-900 (Data Fundamental)
-      • MS AI-900 (AI Fundamental)
+      • MS AZ-900 (Azure Fundamental)
       • MS SC-900 (Security Fundamental)
       • MS AZ-104 (Azure Admin Associate)
-      • AWS Cloud Practitioner - **DONE**
+      • AWS Cloud Practitioner
       • AWS Certified Solution Architect - Associate
+      • AWS Certified Solution Professional
+      • AWS Certified Security
+      • CISSP
+      • CCSP
       
 
 <br/>
